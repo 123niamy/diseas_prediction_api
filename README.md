@@ -71,6 +71,6 @@ This project is for educational purposes. Feel free to use and modify it for you
 
 ---
 
-**Author:** [Your Name]
+**Author:** Emmanuel Niamy
 
 For questions or contributions, please open an issue or pull request.
